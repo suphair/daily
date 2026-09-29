@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>В этот день</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fdf6ee;
+    --surface: #fffaf4;
+    --text: #2b1a0e;
+    --muted: #7a5a40;
+    --line: #f1d9bf;
+    --accent: #c85a00;
+    --accent-soft: #fde6cc;
+    --tolstoy: #b84a0e;
+    --paustovsky: #d9730d;
+    --mayakovsky: #e0450f;
+    --prishvin: #a86a12;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1c130c;
+      --surface: #261a10;
+      --text: #f6e7d6;
+      --muted: #c9a383;
+      --line: #3d2a1a;
+      --accent: #ff9a3c;
+      --accent-soft: #3a2413;
+      --tolstoy: #ff8f52;
+      --paustovsky: #ffb347;
+      --mayakovsky: #ff7a45;
+      --prishvin: #e8b14a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1c130c;
+    --surface: #261a10;
+    --text: #f6e7d6;
+    --muted: #c9a383;
+    --line: #3d2a1a;
+    --accent: #ff9a3c;
+    --accent-soft: #3a2413;
+    --tolstoy: #ff8f52;
+    --paustovsky: #ffb347;
+    --mayakovsky: #ff7a45;
+    --prishvin: #e8b14a;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 18px/1.55 "PT Serif", Georgia, serif;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { text-align: center; margin-bottom: 28px; }
+  .kicker {
+    font-size: 13px; letter-spacing: .18em; text-transform: uppercase;
+    color: var(--accent); margin: 0 0 6px;
+  }
+  .card {
+    background: var(--surface); border: 1px solid var(--line);
+    border-left: 5px solid var(--author); border-radius: 12px;
+    padding: 22px 22px 18px; margin-bottom: 20px;
+  }
+  .meta { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+  .portrait {
+    flex: none; width: 64px; height: 64px; border-radius: 50%;
+    object-fit: cover; object-position: center 25%;
+    border: 2px solid var(--author); background: var(--accent-soft);
+  }
+  .who { min-width: 0; }
+  .name { font-weight: 700; }
+  .sub { color: var(--muted); font-size: 14px; }
+  .kind {
+    display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 999px;
+    background: var(--accent-soft); color: var(--accent); font-size: 12px;
+    letter-spacing: .05em; text-transform: uppercase; vertical-align: 1px;
+  }
+  .text { margin: 0 0 16px; }
+  blockquote {
+    margin: 0; padding: 4px 0 4px 18px; border-left: 2px solid var(--accent);
+    font-style: italic; font-size: 20px; line-height: 1.5;
+  }
+  .src { margin-top: 10px; font-size: 14px; color: var(--muted); overflow-wrap: anywhere; }
+  .src a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <p class="kicker">В этот день · Толстой · Паустовский · Маяковский · Пришвин</p>
+    <h1 id="date"></h1>
+  </header>
+  <section id="cards"></section>
+</main>
+<script src="data.js"></script>
+<script>
+  const AUTHORS = {
+    tolstoy: { name: "Лев Толстой" },
+    paustovsky: { name: "Константин Паустовский" },
+    mayakovsky: { name: "Владимир Маяковский" },
+    prishvin: { name: "Михаил Пришвин" },
+  };
+  const KINDS = { event: "событие", letter: "письмо", diary: "дневник" };
+  const KIND_ORDER = { event: 0, letter: 1, diary: 2 };
+  const MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля",
+    "августа", "сентября", "октября", "ноября", "декабря"];
+
+  const pad = n => String(n).padStart(2, "0");
+
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) {
+      e.className = cls;
+    }
+    if (text !== undefined) {
+      e.textContent = text;
+    }
+    return e;
+  }
+
+  function card(entry, day) {
+    const a = AUTHORS[entry.author];
+    const c = el("article", "card");
+    c.style.setProperty("--author", "var(--" + entry.author + ")");
+
+    const meta = el("div", "meta");
+    const img = el("img", "portrait");
+    img.src = "img/" + entry.author + ".jpg";
+    img.alt = a.name;
+    meta.append(img);
+    const who = el("div", "who");
+    const name = el("div", "name", a.name);
+    name.append(el("span", "kind", KINDS[entry.kind]));
+    who.append(name);
+    who.append(el("div", "sub", entry.year + " г."));
+    meta.append(who);
+    c.append(meta);
+
+    c.append(el("p", "text", entry.text));
+    c.append(el("blockquote", "", "«" + entry.quote + "»"));
+    const source = entry.quoteSource.replace(", " + day + " " + entry.year, "");
+    const src = el("div", "src", source.toLowerCase() === KINDS[entry.kind] ? "" : "— " + source + " · ");
+    const link = el("a", "", "источник");
+    link.href = entry.sourceUrl;
+    link.target = "_blank";
+    link.rel = "noopener";
+    src.append(link);
+    c.append(src);
+    return c;
+  }
+
+  const today = new Date();
+  const key = pad(today.getMonth() + 1) + "-" + pad(today.getDate());
+  const entries = DAYS[key];
+  if (!entries || !entries.length) {
+    throw new Error("no entries for " + key);
+  }
+  const human = today.getDate() + " " + MONTHS[today.getMonth()];
+  document.getElementById("date").textContent = human;
+  document.title = "В этот день · " + human;
+  document.getElementById("cards").replaceChildren(...[...entries]
+    .sort((x, y) => KIND_ORDER[x.kind] - KIND_ORDER[y.kind] || x.year - y.year)
+    .map(e => card(e, human)));
+</script>
+</body>
+</html>
