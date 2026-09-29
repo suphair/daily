@@ -61,8 +61,11 @@ for (const [key, entries] of Object.entries(DAYS)) {
 
 const total = Object.values(DAYS).flat();
 const by = a => total.filter(e => e.author === a).length;
-console.log(`days ${allKeys.length - missing.length}/366, entries ${total.length}:`,
-  [...AUTHORS].map(a => `${a} ${by(a)}`).join(", "));
+const daysOf = a => allKeys.filter(k => DAYS[k]?.some(e => e.author === a)).length;
+console.log(`days ${allKeys.length - missing.length}/366, entries ${total.length}`);
+for (const a of AUTHORS) {
+  console.log(`  ${a}: ${by(a)} entries, ${daysOf(a)}/366 days`);
+}
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exit(1);
