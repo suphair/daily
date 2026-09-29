@@ -4521,6 +4521,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "paustovsky",
+   "year": 1916,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Служа в Таганроге, Паустовский пишет невесте Е. С. Загорской о ночи на молу и мечтах о далёких морях.",
+   "quote": "Я сидел на борту какой-то полупокинутой шхуны. Скрипели снасти, жаловалась вода, и снова покорила меня великая меланхолия моря, тоска безвестных путей.",
+   "quoteSource": "Письмо Е. С. Загорской, 20 апреля 1916",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-25.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1910,
    "kind": "diary",
@@ -4541,6 +4551,16 @@ window.DAYS = {
    "quote": "Мне всё кажется, что мы всё уяснили себе, свое положение, свое призвание, и приготовились к делу, к борьбе, к жертве, а борьбы и жертвы и усилий нет, и нам скучно.",
    "quoteSource": "Дневник, 21 апреля 1894",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1955,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский сообщает Ю. Г. Саушкину, что только что оправился от воспаления лёгких, подхваченного на Рижском взморье во время работы над «Золотой розой».",
+   "quote": "Я только что выкарабкался из воспаления легких (схватил его на Рижском взморье, куда ездил работать над новой книгой—«Золотой розой»).",
+   "quoteSource": "Письмо Ю. Г. Саушкину, 21 апреля 1955",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-261.htm"
   },
   {
    "author": "prishvin",
@@ -4575,6 +4595,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/m/majakowskij_w_w/text_0590.shtml"
   },
   {
+   "author": "paustovsky",
+   "year": 1959,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Ялты Паустовский пишет драматургу А. К. Гладкову, что работает над пятой книгой автобиографической повести.",
+   "quote": "Сейчас пишу пятую книгу автобиографической повести — нечто вроде «Королей и капусты» О. Генри.",
+   "quoteSource": "Письмо А. К. Гладкову, 22 апреля 1959",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-316.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1884,
    "kind": "diary",
@@ -4605,6 +4635,16 @@ window.DAYS = {
    "quote": "Бейте в площади бунтов топот! / Выше, гордых голов гряда! / Мы разливом второго потопа / перемоем миров города.",
    "quoteSource": "«Наш марш»",
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1939,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Живя весной 1939 года в Крыму, Паустовский рассказывает жене В. В. Навашиной о поездках по побережью.",
+   "quote": "Вчера на катере я ездил в Алупку — сильно качало, но море было замечательное.",
+   "quoteSource": "Письмо В. В. Навашиной, 23 апреля 1939",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-141.htm"
   },
   {
    "author": "prishvin",
@@ -4639,6 +4679,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/m/majakowskij_w_w/text_0770.shtml"
   },
   {
+   "author": "paustovsky",
+   "year": 1964,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из больницы в Кунцеве, после приступа стенокардии, Паустовский пишет переводчице Л. Н. Делекторской о своих планах.",
+   "quote": "Мне нужно еще 10 лет, чтобы написать все, что я задумал. Я почему-то уверен, что успею.",
+   "quoteSource": "Письмо Л. Н. Делекторской, 24 апреля 1964",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-389.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1884,
    "kind": "diary",
@@ -4669,6 +4719,16 @@ window.DAYS = {
    "quote": "Я с удовольствием приветствую Театр имени Всеволода Мейерхольда и самого Всеволода Эмильевича Мейерхольда. Тем более легко это сделать, что таковое приветствие — это почти что приветствие самим себе",
    "quoteSource": "Выступление на юбилее Театра имени Вс. Мейерхольда, 25 апреля 1926",
    "sourceUrl": "http://az.lib.ru/m/majakowskij_w_w/text_0850.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1917,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Паустовский пишет Елене Степановне Загорской о московском быте и настроениях весны 1917 года.",
+   "quote": "Настроение в Москве поганое... 1-е мая напоминало похороны жертв революции.",
+   "quoteSource": "Письмо Ел. С. Загорской, 25 апреля 1917",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-35.htm"
   },
   {
    "author": "prishvin",
@@ -4787,6 +4847,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/m/majakowskij_w_w/text_1930_perepiska_s_brik.shtml"
   },
   {
+   "author": "paustovsky",
+   "year": 1928,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Дневниковая запись о весеннем дне в Москве: прогулка с маленьким сыном Вадимом в Александровском саду.",
+   "quote": "Александровский сад. Парит. Жара. Слезы Крола о Димушке. Играл в песке один, трогательный, заброшенный. Построил ему домик. Обрадовался.",
+   "quoteSource": "Дневник, 28 апреля 1928",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "prishvin",
    "year": 1921,
    "kind": "diary",
@@ -4883,6 +4953,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "paustovsky",
+   "year": 1951,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "В командировке в Сталинграде Паустовский сообщает жене Т. А. Паустовской о напечатанном очерке и первомайской демонстрации.",
+   "quote": "Сегодня в «Ст. правде» напечатан мой очерк. Его очень хвалят. Был на демонстрации (на трибуне), сейчас пойду обедать на дебаркадер, там свежо, пусто и тихо.",
+   "quoteSource": "Письмо Т. А. Паустовской, 1 мая 1951",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-236.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1927,
    "kind": "diary",
@@ -4967,6 +5047,16 @@ window.DAYS = {
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
   },
   {
+   "author": "paustovsky",
+   "year": 1928,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Паустовский с сыном ходил к Александровскому вокзалу смотреть на приезд в Москву афганского короля Амануллы-хана.",
+   "quote": "Амманула – красивый, с очень сильным лицом в военной форме табачного цвета. <…> Димушка видел первого живого короля…",
+   "quoteSource": "Дневник, 3 мая 1928",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "tolstoy",
    "year": 1894,
    "kind": "diary",
@@ -4997,6 +5087,16 @@ window.DAYS = {
    "quote": "Товарищи, я нахожусь по сравнению с Сельвинским в более благоприятных условиях. Моя пьеса уже поставлена, и ее уже отругали.",
    "quoteSource": "Выступление на обсуждении «Командарма 2», 4 мая 1929",
    "sourceUrl": "http://az.lib.ru/m/majakowskij_w_w/text_0850.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1928,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Дневниковая запись о ночной прогулке по Москве, у Василия Блаженного.",
+   "quote": "Василий Блаженный, сизое небо, серебряные от луны облака. Дремучая, азиатская, чудная страна, я испытал ощущение иностранца, впервые попавшего в Россию.",
+   "quoteSource": "Дневник, 4 мая 1928",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
   },
   {
    "author": "prishvin",
@@ -5031,6 +5131,16 @@ window.DAYS = {
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
   },
   {
+   "author": "paustovsky",
+   "year": 1956,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский благодарит писательницу А. Я. Бруштейн за письмо и посылает ей «Золотую розу».",
+   "quote": "Отдыхайте, поправляйтесь, радуйтесь, сердитесь, когда надо, и негодуйте, но не портите свое сердце. Так мало сердечности в нашей жизни, и в особенности в нашей мутноватой среде.",
+   "quoteSource": "Письмо А. Я. Бруштейн, 5 мая 1956",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-275.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1881,
    "kind": "diary",
@@ -5053,6 +5163,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Добудь второй!» — к награждению комсомола орденом Красного Знамени.",
+   "quote": "Комсомолец — / это застрельщик / в борьбе / за чистку / и труд.",
+   "quoteSource": "«Добудь второй!»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1941,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский отвечает С. А. Бондарину на открытку из Севастополя, где сам когда-то жил, работая над «Черным морем».",
+   "quote": "Особенно хороши севастопольские сумерки. Вообще — город изумительный, иногда даже неправдоподобный (особенно если где-нибудь на Графской пристани вспомнить Солянку или Сретенку).",
+   "quoteSource": "Письмо С. А. Бондарину, 6 мая 1941",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-151.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1881,
    "kind": "diary",
@@ -5073,6 +5203,16 @@ window.DAYS = {
    "quote": "Нынче утром в первый раз после долгого тумана ясно понял, почувствовал, что жизнь служения людям открыта мне вполне, и захотелось этой жизни",
    "quoteSource": "Дневник, 7 мая 1895",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1964,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из санатория Барвиха Паустовский благодарит Л. Н. Делекторскую за присланный французский перевод «Беспокойной юности».",
+   "quote": "Вы прислали «Беспокойную юность», когда я лежал в больнице и мне было очень плохо. Я буквально воскрес, увидев книгу.",
+   "quoteSource": "Письмо Л. Н. Делекторской, 7 мая 1964",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-391.htm"
   },
   {
    "author": "prishvin",
@@ -5107,6 +5247,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Париже французские писатели устроили обед в честь Маяковского; впечатления от встречи он иронически описал в очерке «Ездил я так».",
+   "quote": "Они собираются на свои обеды уже с 1909 года. Люди хорошие. Что пишут — не знаю. По разговорам — в меру уравновешенные, в меру независимые, в меру новаторы, в меру консерваторы",
+   "quoteSource": "«Ездил я так»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1951,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "В поездке по стройкам Волго-Дона Паустовский пишет жене из Калача о планах записать очерки на обратном пути.",
+   "quote": "Напишу на пароходе. Здесь писать невозможно, все время в езде, в переменах.",
+   "quoteSource": "Письмо Т. А. Паустовской, 8 мая 1951",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-239.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1881,
    "kind": "diary",
@@ -5127,6 +5287,26 @@ window.DAYS = {
    "quote": "Пошел было спать, но сошел, чтобы записать удивительное душевное состояние: мучительная тоска и не добрая.",
    "quoteSource": "Дневник, 9 мая 1897",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях» напечатана агитпоэма «Крестьянам! Рассказ о Змее Горыныче и о том, в кого Горыныч обратился нынче».",
+   "quote": "Нынче / будет / из старой истории сказ / о чудовище — / Змее-Горыныче. / Нынче / этот змей / объявился у нас, / только нынче / выглядит иначе.",
+   "quoteSource": "«Крестьянам! Рассказ о Змее-Горыныче…»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1960,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Вернувшись из Крыма, Паустовский благодарит З. Ф. Коцюбинскую за книгу о Коцюбинском и вспоминает Киев.",
+   "quote": "Кланяйтесь от меня Киеву, я его очень люблю, и есть у меня в Киеве всякие заветные места, например, парк около дворца, над Днепром (раньше он назывался Мариинским)",
+   "quoteSource": "Письмо З. Ф. Коцюбинской, 9 мая 1960",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-336.htm"
   },
   {
    "author": "prishvin",
@@ -5161,6 +5341,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Берлине Общество советско-германского сближения устроило в гостинице «Руссише Хоф» «чай» в честь Маяковского; он выступил с речью и прочёл «Германию» и «Левый марш».",
+   "quote": "Поэт был только один <…> Поэт довольно престарелый. Подарил подписанную книгу. Из любезности открыл первое попавшееся стихотворение — и отступил в ужасе.",
+   "quoteSource": "«Ездил я так»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1953,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Приехав в Коктебель, Паустовский описывает жене вечер в маленьком домике у моря.",
+   "quote": "Сейчас вечер, домик (очень теплый) трясется от ветра, шумит море (разыгрывается шторм), и за окнами светят прожектора по Карадагу. Зрелище феерическое.",
+   "quoteSource": "Письмо Т. А. Паустовской, 10 мая 1953",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-244.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1910,
    "kind": "diary",
@@ -5181,6 +5381,16 @@ window.DAYS = {
    "quote": "Было время, что я начал думать: не умираю ли? и никакого страха, слава Б[огу]. Только страх: как бы не умереть дурно.",
    "quoteSource": "Дневник, 11 мая 1890",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1360-1.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1924,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В ВОКСе Маяковский встретился с японским журналистом и общественным деятелем Найто Тамидзи и подписал ему книгу «Для голоса».",
+   "quote": "Тамизи Найто Маяковский Владимир в залог нашей дружбы с японской культурой. Москва, 11-V-24 г.",
+   "quoteSource": "Дарственная надпись на книге «Для голоса», 11 мая 1924",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-264-.htm"
   },
   {
    "author": "prishvin",
@@ -5215,6 +5425,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский приехал в Варшаву. Шли выборы, и от публичного выступления пришлось отказаться: он ограничился встречами с польскими писателями.",
+   "quote": "На вокзале меня встретили и приветствовали чиновники министерства иностранных дел и несколько писателей",
+   "quoteSource": "«Поверх Варшавы»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1930,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Через месяц после гибели Маяковского Паустовский был на вечере Маяковского в консерватории.",
+   "quote": "Вечером на вечере Маяковского в консерватории. <…> Чудесно читал Асеев. Луначарский говорил вяло и неохотно.",
+   "quoteSource": "Дневник, 12 мая 1930",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "tolstoy",
    "year": 1909,
    "kind": "diary",
@@ -5235,6 +5465,16 @@ window.DAYS = {
    "quote": "Лечение и велосипед, и упадок духовной жизни. На-днях даже рассердился за то, что велосипед не готов, и оскорбил человека.",
    "quoteSource": "Дневник, 13 мая 1895",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В ленинградской газете «Смена» напечатано стихотворение «„Телевоксы“? Что такое?» — о нью-йоркских человеках-автоматах, прислуживавших на балу.",
+   "quote": "С новым бытом! / Ну и фокусы: / по нью-йоркским нарпитам / орудуют — / «Телевоксы».",
+   "quoteSource": "«„Телевоксы“? Что такое?»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
   },
   {
    "author": "paustovsky",
@@ -5279,6 +5519,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский заключил договор с тифлисским издательством «Заккнига» на отдельные издания «Разговора с фининспектором о поэзии» и «Сифилиса» и сдал рукописи.",
+   "quote": "Гражданин фининспектор! / Простите за беспокойство. <…> У меня к вам / дело / деликатного свойства: / о месте / поэта / в рабочем строю.",
+   "quoteSource": "«Разговор с фининспектором о поэзии»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1931,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "В начале поездки по Волге к Кара-Бугазу Паустовский пишет жене из Саратова.",
+   "quote": "Сижу на пристани, жду парохода на Астрахань. Навигация еще официально не началась, и пароходы ходят нерегулярно.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 14 мая 1931",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-57.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1931,
    "kind": "diary",
@@ -5299,6 +5559,16 @@ window.DAYS = {
    "quote": "От частых встреч с теми же самыми людьми становится так, будто в проволочной клетке сидишь и тукаешься все о те же самые проволоки…",
    "quoteSource": "Дневник, 15 мая 1920",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В журнале «Прожектор» напечатано стихотворение «Московский Китай» — о китайцах-прачечниках в Москве.",
+   "quote": "Китаец не рыбка, / не воробей на воротах, / надо / «шибака» / ему работать.",
+   "quoteSource": "«Московский Китай»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
   },
   {
    "author": "tolstoy",
@@ -5333,6 +5603,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский написал предисловие «Польскому читателю» к сборнику переводов своих стихов на польский язык.",
+   "quote": "Переводить стихи — вещь трудная, мои — особенно трудная. <…> я ввожу в стих обычный разговорный язык, например, «светить — и никаких гвоздей», — попробуйте-ка это перевести",
+   "quoteSource": "«Польскому читателю»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1931,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Открытка жене с парохода из Енотаевска, ниже Сталинграда, накануне прибытия в Астрахань.",
+   "quote": "Волга разбилась на множество протоков, разлив и впечатление такое, что пароход идет по морю, лавируя между островами.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 16 мая 1931",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-58.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1909,
    "kind": "diary",
@@ -5353,6 +5643,16 @@ window.DAYS = {
    "quote": "Утро перечитывал и поправлял Кр[ейцерову] Сон[ату].",
    "quoteSource": "Дневник, 17 мая 1889",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1360.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Ленинграде, в Государственном институте истории искусств, Маяковский прочёл доклад «Как делать стихи?» — о своей поэтической «кухне».",
+   "quote": "Я хочу написать о своем деле не как начетчик, а как практик. Никакого научного значения моя статья не имеет.",
+   "quoteSource": "«Как делать стихи?»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
   },
   {
    "author": "prishvin",
@@ -5387,6 +5687,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Ленинградской правде» напечатано сатирическое стихотворение «Кто он?» — о неряхе, «противнике мыла».",
+   "quote": "Кто мчится, / кто скачет / такой молодой, / противник мыла / и в контрах с водой?",
+   "quoteSource": "«Кто он?»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1897,
    "kind": "diary",
@@ -5417,6 +5727,16 @@ window.DAYS = {
    "quote": "Последний день в Кочетах. Оч[ень] б[ыло] хорошо, если бы не барство, организованное, смягчаемое справедливым и добрым отношением, а все таки ужасный, вопиющий контраст, не перестающий меня мучить.",
    "quoteSource": "Дневник, 19 мая 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Ленинградской правде» напечатан отрывок из статьи «Как делать стихи?» под заглавием «О работе поэта».",
+   "quote": "Поэзия начинается там, где есть тенденция. По-моему, стихи «Выхожу один я на дорогу»... — это агитация за то, чтобы девушки гуляли с поэтами.",
+   "quoteSource": "«Как делать стихи?»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
   },
   {
    "author": "prishvin",
@@ -5451,6 +5771,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1924,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо Лиле Брик из Ленинграда, куда Маяковский приехал с серией выступлений.",
+   "quote": "Никто мне не рад, потому что все ждали тебя. <…> Вчера читал, сегодня, завтра, и еще не то в четверг, не то в пятницу. <…> Как здесь тоскливо одному. Это самый тяжелый город.",
+   "quoteSource": "Письмо Л. Ю. Брик, 20 мая 1924",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-0653.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1890,
    "kind": "diary",
@@ -5483,6 +5813,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1917,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В горьковской газете «Новая жизнь» напечатана «поэтохроника» «Революция» о Февральских днях, посвящённая Л. Ю. Брик.",
+   "quote": "днесь / небывалой сбывается былью / социалистов великая ересь!",
+   "quoteSource": "«Революция. Поэтохроника»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-124-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1938,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Старого Крыма Паустовский пишет редактору С. В. Мрозовской о вёрстке своей книги «Повести и рассказы».",
+   "quote": "Третьего дня получил из Гослитиздата верстку своей книги («Повести и рассказы»). Гранок они мне, черти, не прислали.",
+   "quoteSource": "Письмо С. В. Мрозовской, 21 мая 1938",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-126.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1884,
    "kind": "diary",
@@ -5503,6 +5853,26 @@ window.DAYS = {
    "quote": "В работе подвигаюсь медленно. Нынче уяснилось всё в целом и написал конспект 9 глав.",
    "quoteSource": "Дневник, 22 мая 1891",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский вернулся в Москву из поездки по Польше, Чехословакии, Франции и Германии; её итоги он подвёл в очерке «Ездил я так».",
+   "quote": "Последние, это первые для нас, — это рабочие писатели и лефы всех стран, связь которых с нами — это связь разных отрядов одной и той же армии",
+   "quoteSource": "«Ездил я так»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1958,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет Л. Н. Рахманову о смерти писательницы Е. И. Катерли.",
+   "quote": "Поколение уходит, я это чувствую каждый день. Это очень горькое и очень реальное ощущение",
+   "quoteSource": "Письмо Л. Н. Рахманову, 22 мая 1958",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-296.htm"
   },
   {
    "author": "prishvin",
@@ -5527,6 +5897,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Ленинградской правде» и «Смене» одновременно напечатано стихотворение «Сергею Есенину», написанное после самоубийства поэта.",
+   "quote": "Для веселия / планета наша / мало оборудована. / Надо / вырвать / радость / у грядущих дней. / В этой жизни / помереть / не трудно. / Сделать жизнь / значительно трудней.",
+   "quoteSource": "«Сергею Есенину»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1915,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Вернувшись с фронта санитаром, Паустовский пишет Е. С. Загорской из военного лагеря на Ходынке.",
+   "quote": "Уже вечер. Цветет сирень. Я один,— брат ушел куда-то, и мне так хочется писать тебе.",
+   "quoteSource": "Письмо Е. С. Загорской, 23 мая 1915",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-3.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1909,
    "kind": "diary",
@@ -5549,6 +5939,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В номере «Комсомольской правды», посвящённом трёхлетию газеты, напечатано стихотворение «Писатели мы».",
+   "quote": "А теперь / так / делаются / литературные вещи. / Писатель / берет факт, / живой / и трепещущий.",
+   "quoteSource": "«Писатели мы»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1931,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Астрахани, вернувшись из Элисты, Паустовский пишет жене о работе над очерками в дороге.",
+   "quote": "В пути писать трудно отчасти потому, что впечатления очень свежи, не отстоялись, и это осложняет отбор.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 24 мая 1931",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-63.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -5569,6 +5979,16 @@ window.DAYS = {
    "quote": "Ясно, но холодно и ветрено. Трава сильно растет. Принес ландыши. Рожь зацветает.",
    "quoteSource": "Дневник, 25 мая 1921",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Дневниковая запись о книжном базаре в Москве.",
+   "quote": "Книжный базар. Старые евреи. Медленно. Купил «Гадюку» А. Толстого. Прекрасный рассказ. Читал на улице.",
+   "quoteSource": "Дневник, 25 мая 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
   },
   {
    "author": "tolstoy",
@@ -5603,6 +6023,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1916,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В Петрограде написано стихотворение «Лиличка! Вместо письма», обращённое к Лиле Брик.",
+   "quote": "Кроме любви твоей, / мне / нету моря, / а у любви твоей и плачем не вымолишь отдых.",
+   "quoteSource": "«Лиличка! Вместо письма»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-118-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Паустовский работает над рассказом «Девонский известняк» и бродит по летней Москве.",
+   "quote": "Писал «Девонский известняк». <…> Пречистенка, зелень, московское лето.",
+   "quoteSource": "Дневник, 26 мая 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -5623,6 +6063,16 @@ window.DAYS = {
    "quote": "Таинственно и внятно поет соловей, пока еще не померкли звезды, а как взялась заря, тут маленькая птичка так настойчиво твердит славу утру, что соловья и не слушаешь.",
    "quoteSource": "Дневник, 27 мая 1921",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Бакинском рабочем» напечатано стихотворение «Керзон» из сатирического цикла «Маяковская галерея».",
+   "quote": "Многие / слышали звон, / да не знают, / что такое — / Керзон.",
+   "quoteSource": "«Керзон»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
   },
   {
    "author": "tolstoy",
@@ -5647,6 +6097,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В вечернем выпуске ленинградской «Красной газеты» напечатана статья Маяковского «А что вы пишете?» — о халтуре и борьбе за качество в литературе.",
+   "quote": "Сейчас, на мой взгляд, печатается больше, чем пишется. <…> Настоящая поэзия всегда, хоть на час, а должна опередить жизнь",
+   "quoteSource": "«А что вы пишете?»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В Москве шли антинемецкие погромы; на следующий день Паустовский описал горящий город в письме Е. С. Загорской.",
+   "quote": "Все улицы затянуты гарью — горит Китай-город, Лубянка, Софийка и еще что-то. Везде — цепи солдат. Грабежи стихают.",
+   "quoteSource": "Письмо Е. С. Загорской, 29 мая 1915",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-4.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1906,
    "kind": "diary",
@@ -5669,6 +6139,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Арсенал ленинцев» — к десятилетию Свердловского коммунистического университета.",
+   "quote": "Наши танки / стопчут / и стены и лужи, / под нашим наганом, / белый, / жмись! / Но самое сильное / наше / оружие — / большевистская мысль.",
+   "quoteSource": "«Арсенал ленинцев»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1915,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Паустовский пишет Е. С. Загорской о том, как напрасно прождал её накануне вечером на Брянском вокзале.",
+   "quote": "На вокзале я сидел в зале около двери до полночи и все ждал и вздрагивал, когда появлялся кто-нибудь в сером.",
+   "quoteSource": "Письмо Е. С. Загорской, 29 мая 1915",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-4.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -5689,6 +6179,16 @@ window.DAYS = {
    "quote": "Приехал Мечник[ов] и кореспонденты. Мечн[иков] приятен и как будто широк.",
    "quoteSource": "Дневник, 30 мая 1909",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Заявление в Госиздат об издании собрания сочинений: Маяковский предлагает добавить пятый том и выпускать дешёвые издания для студентов.",
+   "quote": "мой основной читатель — вузовец, рабфаковец, не могущий тратить денег на дорогую книгу. Опыт дешевого издания «Огонька» показал всю целесообразность такого дела: даже старое «Облако в штанах» разошлось за несколько месяцев без остатка",
+   "quoteSource": "Письмо в литературно-художественный отдел Госиздата, 30 мая 1926",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-084-.htm"
   },
   {
    "author": "paustovsky",
@@ -5731,6 +6231,16 @@ window.DAYS = {
    "quote": "Я овладел собою, и мне ясно представилось, что я в жизни был счастлив и мне надо за нее благодарить.",
    "quoteSource": "Дневник, 31 мая 1920",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1929,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Огоньке» напечатано стихотворение «Монте-Карло» — из стихов о поездке во Францию.",
+   "quote": "Дворцы / и палаццо / монакского принца... / Бараны мира, / пожалте бриться!",
+   "quoteSource": "«Монте-Карло»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-451-.htm"
   },
   {
    "author": "tolstoy",
@@ -5797,6 +6307,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо Лиле Брик из Парижа, где Маяковский ждёт парохода в Мексику и осматривает Всемирную художественно-промышленную выставку.",
+   "quote": "Выставка — скучнейшее и никчемнейшее место. Безвкусица, которую даже нельзя себе представить.",
+   "quoteSource": "Письмо Л. Ю. Брик, 2 июня 1925",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-072-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1925,
    "kind": "diary",
@@ -5827,6 +6347,16 @@ window.DAYS = {
    "quote": "Вдруг показалась большая птица, кроншнеп, стала тревожно кричать и описывать вокруг меня и собак большие круги, радиусом шагов на двести.",
    "quoteSource": "Дневник, 3 июня 1924",
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В парижской газете «Парижский вестник» под общим заголовком «Из поэмы „Париж“» напечатаны стихотворения «Еду», «Город» и два «Прощания».",
+   "quote": "Билет — / щелк. / Щека — / чмок. / Свисток — / и рванулись туда мы",
+   "quoteSource": "«Еду»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
   },
   {
    "author": "tolstoy",
@@ -5861,6 +6391,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В вечернем выпуске ленинградской «Красной газеты» напечатано стихотворение «Вызов» из американского цикла.",
+   "quote": "Я / полпред стиха — / и я / с моей страной / вашим штатишкам / бросаю вызов.",
+   "quoteSource": "«Вызов»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет жене о литературных делах: «Этикетках» и первых главах «Мертвой зыби».",
+   "quote": "Сейчас отделал первые три главы «Мертвой зыби» («Старый Оскар», «Мысли о творчестве» и «Пакость» (о смерти Оскара), отнесу их завтра в «30 дней» Регинину.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 4 июня 1926",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-46.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1930,
    "kind": "diary",
@@ -5881,6 +6431,26 @@ window.DAYS = {
    "quote": "Людям черт, как благодетельная осушительная канава на болоте, по которой стекает вся грязь.",
    "quoteSource": "Дневник, 5 июня 1923",
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В тифлисской газете «Заря Востока» напечатан отрывок из статьи «Как делать стихи?» — «Как приходит социальный заказ».",
+   "quote": "В этой книге я стараюсь подойти к поэзии не как к свалочному месту для древностей — ямбов, хореев, сонетов и т. д., а как к живому производственному процессу.",
+   "quoteSource": "«Как делать стихи?», отрывок в «Заре Востока»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Оставшись летом один в Москве, Паустовский пишет жене в деревню Богово Рязанской губернии.",
+   "quote": "Здесь жара, пыль, нечем дышать и поэтому на все уходит гораздо больше сил, чем обычно. Комнаты у меня горят, очень чисто, уютно. Тишина, никто не ходит (был два раза Гехт), я пишу.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 5 июня 1926",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/3"
   },
   {
    "author": "tolstoy",
@@ -5905,6 +6475,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях» напечатано сатирическое стихотворение «Протекция» с подзаголовком «Обывателиада в 3-х частях».",
+   "quote": "Обыватель Михин — / друг дворничихин. / Дворник Службин / с Фелицией в дружбе. / У тети Фелиции / лицо в милиции.",
+   "quoteSource": "«Протекция»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1961,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Тарусы Паустовский извиняется перед Л. Н. Делекторской за запоздалые ответы.",
+   "quote": "Очевидно, нужно, чтобы в сутках было 48 часов, тогда только я успею вовремя отвечать на письма и писать свои книги.",
+   "quoteSource": "Письмо Л. Н. Делекторской, 6 июня 1961",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-350.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1917,
    "kind": "diary",
@@ -5927,6 +6517,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1913,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Письмо петербургскому меценату «Союза молодёжи» Л. И. Жевержееву о только что вышедшей первой книге Маяковского «Я!».",
+   "quote": "Выпустил новую книгу «Я» — литография. Если можно, вышлю Вам наложен<ным> платежом для Петербурга.",
+   "quoteSource": "Письмо Л. И. Жевержееву, 7 июня 1913",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-0182.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1947,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Уезжая на лето в Солотчу, Паустовский прощается с К. А. Фединым.",
+   "quote": "Поедем на машине со всем рыболовным имуществом, с пуделем и резиновыми лодками. Все хорошо, но барометр упорно идет к отметке «великий дождь».",
+   "quoteSource": "Письмо К. А. Федину, 7 июня 1947",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-213.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1925,
    "kind": "diary",
@@ -5947,6 +6557,16 @@ window.DAYS = {
    "quote": "Особенно живо чувствовал безумную безнравственность роскоши властвующих и богатых и нищету и задавленность бедных.",
    "quoteSource": "Дневник, 8 июня 1909",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Рабочей Москве» напечатаны стихотворение «Славянский вопрос-то решается просто» и очерк «Немного о чехе» — по следам поездки в Чехословакию и Польшу.",
+   "quote": "Не вылажу здесь / из разговора вязкого / об исконном / братстве / племени славянского.",
+   "quoteSource": "«Славянский вопрос-то решается просто»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
   },
   {
    "author": "prishvin",
@@ -5981,6 +6601,16 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо Лиле Брик из Парижа за десять дней до отплытия в Мексику; вечером Маяковский читал стихи в полпредстве.",
+   "quote": "Я живу здесь еще скучнее, чем всегда. Выставка осточертела, в особенности разговоры вокруг нее. <…> Не был ни в одном театре. Видел только раз в кино Чаплина.",
+   "quoteSource": "Письмо Л. Ю. Брик, 9 июня 1925",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-073-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1909,
    "kind": "diary",
@@ -6013,6 +6643,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "paustovsky",
+   "year": 1961,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский отвечает болгарскому литератору С. Чернышеву на замечания об ошибках в очерке «Амфора» о Созополе.",
+   "quote": "Мне хотелось передать очарование этого города, и поэтому я сознательно сгустил краски.",
+   "quoteSource": "Письмо С. Чернышеву, 10 июня 1961",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-352.htm"
+  },
+  {
    "author": "mayakovsky",
    "year": 1925,
    "kind": "event",
@@ -6043,6 +6683,16 @@ window.DAYS = {
    "quote": "Главное же, мучительное чувство бедности, -- не бедности, а унижен[ия], забитости народа.",
    "quoteSource": "Дневник, 11 июня 1909",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма С. Эйзенштейну в Ленинград: Маяковский зовёт его в однодневную антивоенную газету Федерации советских писателей.",
+   "quote": "будут напечатаны статьи рассказы стихи ученых писателей поэтов протестующих против военной опасности подготавливаемой Англией точка просим телеграфно прислать для этой газеты несколько строк",
+   "quoteSource": "Телеграмма С. М. Эйзенштейну, 11 июня 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
   },
   {
    "author": "prishvin",
@@ -6099,6 +6749,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1906,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "После внезапной смерти отца Маяковский по прошению матери выбыл из Кутаисской гимназии; семья собиралась переезжать в Москву.",
+   "quote": "Не до учения. Пошли двойки. Перешел в четвертый только потому, что мне расшибли голову камнем (на Рионе подрался), — на переэкзаменовках пожалели.",
+   "quoteSource": "«Я сам» (автобиография)",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-031-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1897,
    "kind": "letter",
@@ -6141,6 +6801,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Парижском вестнике» напечатано стихотворение «Ялта — Новороссийск» — о бесконечном ожидании опоздавшего парохода.",
+   "quote": "С вечера / в Ялте / ждал «Севастополя». / Я пиво пил, / изучал расписание",
+   "quoteSource": "«Ялта — Новороссийск»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1929,
    "kind": "diary",
@@ -6173,6 +6843,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В ленинградском Музее академических театров Маяковский прочёл первую часть октябрьской поэмы «Хорошо!».",
+   "quote": "Время — / вещь / необычайно длинная, — / были времена — / прошли былинные. / Ни былин, / ни эпосов, / ни эпопей.",
+   "quoteSource": "«Хорошо!»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -6193,6 +6873,16 @@ window.DAYS = {
    "quote": "Человек знает, что умрет, и даже с каждым днем умирает.",
    "quoteSource": "Дневник, 16 июня 1909",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Госиздат сдан первый том собрания сочинений Маяковского; сам поэт в это время ждал в Париже парохода в Мексику и торопил издательство с деньгами.",
+   "quote": "Не беспокойся и не шли мне денег. Только торопи Госиздат.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 10 июня 1925",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
   },
   {
    "author": "prishvin",
@@ -6217,6 +6907,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В журнале «Огонёк» напечатано стихотворение «Горб».",
+   "quote": "Арбат толкучкою давил / и сбоку / и с хвоста. / Невмоготу — / кряхтел да выл / и крикнул извозца.",
+   "quoteSource": "«Горб»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1884,
    "kind": "event",
@@ -6237,6 +6937,16 @@ window.DAYS = {
    "quote": "Вчера же получил от Дунаева вырезку из газеты о том, что 9 солдат духоборов отказались от военной службы и несколько запасных возвратили свои билеты.",
    "quoteSource": "Дневник, 18 июня 1895",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В журнале «Новый сатирикон» напечатано шуточное стихотворение «Военно-морская любовь».",
+   "quote": "По морям, играя, носится / с миноносцем миноносица. / Льнет, как будто к меду осочка, / к миноносцу миноносочка.",
+   "quoteSource": "«Военно-морская любовь»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
   },
   {
    "author": "prishvin",
@@ -6261,6 +6971,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Крым» — о бывших дворцах, ставших здравницами для рабочих.",
+   "quote": "Хожу, / гляжу в окно ли я — / цветы / да небо синее, / то в нос тебе / магнолия, / то в глаз тебе / глициния.",
+   "quoteSource": "«Крым»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1910,
    "kind": "letter",
@@ -6281,6 +7001,16 @@ window.DAYS = {
    "quote": "Нынче проснулся от ясного, простого, понятного всем опровержения матерьялизма.",
    "quoteSource": "Дневник, 20 июня 1909",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский выехал из Парижа в Сен-Назер, откуда на следующий день отплыл в Мексику. За десять дней до этого его обокрали в гостинице.",
+   "quote": "Завтра утром 8.40 выезжаю в Сен-Назер (Бретань) и уже через 12 часов буду ночевать на пароходе. 21-го отплываю!",
+   "quoteSource": "Письмо Л. Ю. Брик, 19—20 июня 1925",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
   },
   {
    "author": "prishvin",
@@ -6389,6 +7119,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В одесском Летнем саду им. Луначарского Маяковский выступил с докладом «Мое открытие Америки» и чтением стихов.",
+   "quote": "Езда хватает сегодняшнего читателя. Вместо выдуманных интересностей о скучных вещах, образов и метафор — вещи, интересные сами по себе.",
+   "quoteSource": "«Мое открытие Америки»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1914,
    "kind": "diary",
@@ -6409,6 +7149,26 @@ window.DAYS = {
    "quote": "Перед домом цветы, босоногие, здоровые девочки чистят. Потом ворочаются с сеном, с ягодами. Веселые, спокойные, здоровые. Хорошо бы написать две картинки.",
    "quoteSource": "Дневник, 24 июня 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Легкая кавалерия» — о бюрократах и забытых жалобах рабочих.",
+   "quote": "Фабрикой / вывешен / жалобный ящик. / Жалуйся, слесарь, / жалуйся, смазчик!",
+   "quoteSource": "«Легкая кавалерия»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1963,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский обсуждает с М. А. Келлерманом состав своего «Избранного» для Гослитиздата.",
+   "quote": "Не знаю, на чем остановиться, на Кипренском или Шевченко. Хорошо бы напечатать и того и другого.",
+   "quoteSource": "Письмо М. А. Келлерману, 24 июня 1963",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-382.htm"
   },
   {
    "author": "prishvin",
@@ -6433,6 +7193,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В петроградской квартире С. Судейкина Маяковский встретился с поэтом М. Кузминым и оставил в альбоме хозяина экспромт.",
+   "quote": "Приятно марсовым вечером пить кузминской речи ром.",
+   "quoteSource": "Экспромт в альбоме С. Ю. Судейкина, 25 июня 1915",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1966,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Обсуждая проспект своего собрания сочинений, Паустовский просит редактора отстоять очерки о Цветаевой и Пастернаке.",
+   "quote": "Что же касается «Лаврового венка» (о Цветаевой) и заметки о Пастернаке, то — я заклинаю Вас — боритесь за них до последней возможности. Когда наконец люди поймут, что оба эти поэта — это наша национальная гордость.",
+   "quoteSource": "Письмо В. А. Борисовой, 25 июня 1966",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-423.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1861,
    "kind": "diary",
@@ -6455,6 +7235,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "На пароходе «Эспань», шедшем в Мексику, Маяковский написал стихотворение «6 монахинь» о попутчицах-католичках.",
+   "quote": "шестеро благочестивейших католичек / влезло / на борт / парохода «Эспань».",
+   "quoteSource": "«6 монахинь»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1947,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Солотчи Паустовский пишет жене о летнем отдыхе и переговорах с Большим театром о либретто.",
+   "quote": "Я очень поправился, загорел, посвежел, каждый день с утра (прямо с постели) иду купаться (вода очень теплая, парная).",
+   "quoteSource": "Письмо В. В. Навашиной, 26 июня 1947",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-214.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1915,
    "kind": "diary",
@@ -6475,6 +7275,16 @@ window.DAYS = {
    "quote": "Раннее утро. Солнце изнутри тучи. Теплый слепой дождь. Зяблик поет — только зяблик. Кукушки больше не слышно. День на убыль.",
    "quoteSource": "Дневник, 27 июня 1921",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1929,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский выступил в «Рабочей радиогазете» с чтением антивоенного стихотворения «На Западе все спокойно».",
+   "quote": "Как совесть голубя, / чист асфальт. / Как лысина банкира, / тротуара плиты",
+   "quoteSource": "«На Западе все спокойно»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-451-.htm"
   },
   {
    "author": "tolstoy",
@@ -6509,6 +7319,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1929,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо Лиле Брик в Ленинград перед летней лекционной поездкой на Кавказ и в Крым.",
+   "quote": "Я еще от Лавута никаких телеграммов не получил, поэтому о себе ничего не ведаю. <…> Новостей у меня не больше, чем в газетах, и в газетах никаких.",
+   "quoteSource": "Письмо Л. Ю. Брик, 28 июня 1929",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/critics/m65/m65-1711.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -6539,6 +7359,16 @@ window.DAYS = {
    "quote": "Я вчера усердно косил. Пробовал писать. Не идет.",
    "quoteSource": "Дневник, 29 июня 1894",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1916,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Письмо матери и сёстрам после возвращения в Петроград, где Маяковский служил в Военно-автомобильной школе.",
+   "quote": "Доехал я в Петроград шикарно. До сего времени здоров, молод, красив и весел. Много работаю: работать теперь трудно, вчера было 32° жары.",
+   "quoteSource": "Письмо А. А., Л. В. и О. В. Маяковским, 29 июня 1916",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-0251.htm"
   },
   {
    "author": "prishvin",
@@ -6573,6 +7403,26 @@ window.DAYS = {
    "sourceUrl": "https://imwerden.de/pdf/prishvin_dnevniki_1923-1925_2009_text.pdf"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Дачный случай», написанное на даче в Пушкине.",
+   "quote": "Я / нынешний год / проживаю опять / в уже / классическом Пушкино.",
+   "quoteSource": "«Дачный случай»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1958,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский признаёт ошибку в «Начале неведомого века»: рассказ о Магалифе, записанный с чужих слов, оказался легендой.",
+   "quote": "Дело в том, что я совершил грубейшую и непростительную для писателя ошибку, приняв на веру безусловно заманчивый рассказ о Магалифе. Рассказ этот оказался апокрифом, легендой.",
+   "quoteSource": "Письмо Магалифу, 30 июня 1958",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-297.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1890,
    "kind": "letter",
@@ -6593,6 +7443,16 @@ window.DAYS = {
    "quote": "Есть блага телесные: здоровье, похоти тела, богатство, половая любовь, слава, почести, власть. И все эти блага: 1) вне нашей власти, 2) всякую минуту могут оборваться смертью и 3) не могут быть благами для всех. И есть другое благо, духовное -- любовь к людям",
    "quoteSource": "Дневник, 1 июля 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В одесских «Известиях» под заглавием «Тоже вождь» напечатано стихотворение «Гомперс» из «Маяковской галереи» — о лидере американских профсоюзов.",
+   "quote": "Из вас / никто / ни с компасом, / ни без компаса — / никак / и никогда / не сыщет Гомперса.",
+   "quoteSource": "«Гомперс»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
   },
   {
    "author": "prishvin",
@@ -6625,6 +7485,16 @@ window.DAYS = {
    "quote": "На горках рожь подняли, местами жнут. <…> Наш крестьянин противится техническому новшеству в земледелии, как всякий практик сопротивляется вооружению теорией в его деле.",
    "quoteSource": "Дневник, 2 июля 1921",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1942,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из эвакуации в Алма-Ате Паустовский пишет Р. И. Фраерману, вернувшемуся в Солотчу.",
+   "quote": "хочется только одного — быть сейчас в Солотче, уйти с Вами куда-нибудь в глушь, где нет ни души, нет людей, но есть то единственное, что никогда не причиняло нам зла,— природа.",
+   "quoteSource": "Письмо Р. И. Фраерману, 2 июля 1942",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-169.htm"
   },
   {
    "author": "tolstoy",
@@ -6805,6 +7675,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1928-1929/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Севастополе по вине организаторов сорвалось выступление Маяковского в клубе им. Шмидта; он извинился перед публикой письмом в газету «Маяк коммуны».",
+   "quote": "Приношу большое извинение всем собравшимся 6 июля на мою несостоявшуюся лекцию. Причина срыва лекции — неумелость организаторов",
+   "quoteSource": "Письмо в редакцию газеты «Маяк коммуны», 6—7 июля 1926",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-085-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1918,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Журналист Паустовский был в Большом театре на V съезде Советов в день убийства Мирбаха и начала левоэсеровского мятежа — так он вспоминает об этом в «Повести о жизни».",
+   "quote": "Вскоре неизвестно откуда по театру распространился слух, что три часа тому назад был убит в своем посольском особняке граф Мирбах. Смятение охватило журналистов.",
+   "quoteSource": "„Повесть о жизни“, кн. „Начало неведомого века“",
+   "sourceUrl": "http://lib.ru/PROZA/PAUSTOWSKIJ/lifebook3.txt"
+  },
+  {
    "author": "tolstoy",
    "year": 1862,
    "kind": "event",
@@ -6825,6 +7715,16 @@ window.DAYS = {
    "quote": "Косил и целый день. <…> подумал: ум, дарованья даны не всякому и неравномерно, но понимание чувств людей, улыбки, нахмуренья дано всем, и малоумным, и детям, больше чем другим.",
    "quoteSource": "Дневник, 7 июля 1889",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1360.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1941,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Военным корреспондентом Южного фронта Паустовский пишет жене из Тирасполя о жизни в редакции армейской газеты.",
+   "quote": "Живу в бывшем дворце пионеров в редакции армейской газеты в большом спортивном зале. Сплю на матраце на полу.",
+   "quoteSource": "Письмо В. В. Навашиной, 7 июля 1941",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-156.htm"
   },
   {
    "author": "prishvin",
@@ -6869,6 +7769,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
   },
   {
+   "author": "paustovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "После поездки по Нижнему Днепру Паустовский пишет жене из Одессы.",
+   "quote": "в Херсоне весь порт заставлен корзинами с вишней, пароходы на Одессу берут вишню чуть ли не в машину, по палубам нельзя пройти,— они липкие от вишневого сока. Какой-то вишенный потоп, народное бедствие.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 8 июля 1925",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-42.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1897,
    "kind": "letter",
@@ -6899,6 +7809,16 @@ window.DAYS = {
    "quote": "Долго спал. С удовольствием после писал, занимался коррек[турой] первых пяти книжек. <…> После обеда Николаев, Голд[енвейзер], Ч[ертков]. Тяжело. Держусь.",
    "quoteSource": "Дневник, 9 июля 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В «Новом сатириконе» напечатано стихотворение «Гимн критику» из сатирического цикла «гимнов».",
+   "quote": "От страсти извозчика и разговорчивой прачки / невзрачный детеныш в результате вытек. / Мальчик — не мусор, не вывезешь на тачке. / Мать поплакала и назвала его: критик.",
+   "quoteSource": "«Гимн критику»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
   },
   {
    "author": "prishvin",
@@ -6943,6 +7863,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» к «Неделе обороны» напечатано стихотворение «Марш — оборона».",
+   "quote": "Семнадцать и двадцать / нам только и лет. / Придется нам драться, / хотим или нет.",
+   "quoteSource": "«Марш — оборона»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1907,
    "kind": "letter",
@@ -6975,6 +7905,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1922,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский сдал во Вхутемас первый том своего собрания сочинений, а вместе с ним — написанную для издания автобиографию «Я сам».",
+   "quote": "Я — поэт. Этим и интересен. Об этом и пишу. Об остальном — только если это отстоялось словом.",
+   "quoteSource": "«Я сам» (автобиография)",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-222-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1942,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Алма-Аты Паустовский пишет пасынку С. М. Навашину о приглашении «Красной звезды» и о публикации рассказа «Робкое сердце».",
+   "quote": "Я получил телеграмму от редакции «Красной звезды» — очень вежливо приглашают приехать в Москву «для писания рассказов», обещают создать все необходимые условия.",
+   "quoteSource": "Письмо С. М. Навашину, 11 июля 1942",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-170.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -6997,6 +7947,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1923-1925/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Соберитесь и поговорите-ка…» — о критике, которая пишет о писателях, но не о сапожниках.",
+   "quote": "Мы знаем / о писателях / всё до точки: / о великих / и о / захудалейших.",
+   "quoteSource": "«Соберитесь и поговорите-ка…»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1961,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "На писательском конгрессе в Турине Паустовский выступил и предложил почтить память Хемингуэя пятиминутным молчанием.",
+   "quote": "Да, я говорил еще на конгрессе о Хемингуэе и предложил отдать ему последний долг пятиминутным молчанием. Весь конгресс встал.",
+   "quoteSource": "Письмо Т. А. Паустовской, 12 июля 1961",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-355.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1895,
    "kind": "letter",
@@ -7017,6 +7987,26 @@ window.DAYS = {
    "quote": "Приехал Репин и Гинзбург. За это время они меня лепят и пишут, а я написал статью об обжорстве и много подвинулся в большой статье.",
    "quoteSource": "Дневник, 13 июля 1891",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Выступление Маяковского в Севастополе было отменено: он слёг с гриппом в Евпатории.",
+   "quote": "застрял тут на целую неделю, потому что у меня был страшенный грипп. <…> Три лекции, с таким трудом налаженные опять в Севастополе и Евпатории, пришлось отменить. Веселенькая историйка!",
+   "quoteSource": "Письмо Л. Ю. Брик, 15 июля 1926",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-088-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Дневниковая запись о летнем дне в Балаклаве.",
+   "quote": "Утром – к даче Апраксина. Приезжие из Пскова. Греб на «Гарри Пиле». Дождь. <…> Вечером – жестокий тропический ливень.",
+   "quoteSource": "Дневник, 13 июля 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
   },
   {
    "author": "prishvin",
@@ -7083,6 +8073,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Дневниковая запись о дне на крымских пляжах под Балаклавой.",
+   "quote": "После обеда – пешком на большой пляж. Сухие цветы и камни. Размывы. На пляже – волна.",
+   "quoteSource": "Дневник, 15 июля 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -7115,6 +8115,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1909,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Арестованный по делу о побеге политкаторжанок, Маяковский из Мясницкого полицейского дома просит Охранное отделение пропустить ему принадлежности для рисования.",
+   "quote": "Ввиду того, что мне необходимо продолжать начатые занятия, покорнейше прошу вас разрешить мне пропуск необходимых для рисования принадлежностей.",
+   "quoteSource": "Прошение в Московское охранное отделение, 16 июля 1909",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-0131.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1942,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский отправляет в редакцию рукопись «Белых кроликов» и рассказывает о новой повести о родине.",
+   "quote": "У меня готова первая часть повести (7—8 листов) — современной,— канун войны, предгрозье, великая лирическая сила самого понятия «родина».",
+   "quoteSource": "Письмо Е. И. Михайловой, 16 июля 1942",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-172.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1866,
    "kind": "event",
@@ -7137,6 +8157,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский присутствовал на открытии VI конгресса Коминтерна в Доме Союзов; на следующий день «Комсомольская правда» напечатала его стихи об этом.",
+   "quote": "Главным / взбудоражена / мысль моя, / что это — / просто люди.",
+   "quoteSource": "«Дом Союзов 17 июля»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1965,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "После болезни Паустовский пишет из Тарусы Смоличам, что снова начинает работать — над второй книгой «Золотой розы».",
+   "quote": "Ваши следы в жизни то появляются, то исчезают, и это очень обидно потому, что время идет с идиотической скоростью и упорством. Я, переболев, снова начинаю писать, начинаю в полном смысле этого слова.",
+   "quoteSource": "Письмо Е. Г. и Ю. К. Смоличам, 17 июля 1965",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-408.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -7157,6 +8197,16 @@ window.DAYS = {
    "quote": "Вечером включил антенну, и вдруг заговорил человек о пользе самообразования <…> Я выключил антенну, и это вышло, будто я лишил голоса на полуслове",
    "quoteSource": "Дневник, 18 июля 1926",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма П. Лавуту, организатору лекционных поездок, перед летним турне по Украине и Крыму.",
+   "quote": "Считаю бессмысленным устройство лекций Харькове летом. Предпочитаю лекции Луганске осенью.",
+   "quoteSource": "Телеграмма П. И. Лавуту, 18 июля 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1022.htm"
   },
   {
    "author": "paustovsky",
@@ -7201,6 +8251,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1914,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "Германия объявила войну России — началась Первая мировая война.",
+   "quote": "Принял взволнованно. Сначала только с декоративной, с шумовой стороны.",
+   "quoteSource": "«Я сам» (автобиография)",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-082-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "Возвращаясь поездом из Крыма в Москву, Паустовский записывает дорожные впечатления.",
+   "quote": "Завеса дождя, слякоть. Козлова засека. Родные, сырые леса, реченьки. Чудесный Серпухов. Лопасня. Снова чеховские места.",
+   "quoteSource": "Дневник, 19 июля 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
+  },
+  {
    "author": "prishvin",
    "year": 1917,
    "kind": "diary",
@@ -7221,6 +8291,16 @@ window.DAYS = {
    "quote": "Со дня моего приезда установилась погода ровно жаркая: день в день, как в зеркало смотрится. <…> Работа по бекасам на большом болоте от пяти-шести утра.",
    "quoteSource": "Дневник, 20 июля 1927",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "diary",
+   "oldStyle": false,
+   "text": "В Москве Паустовский подписал в ГИЗе договор на книгу.",
+   "quote": "ГИЗ, у Бывалова. Подписал договор на «Записки Василия Седых». Вечер в РОСТа. У машинки.",
+   "quoteSource": "Дневник, 20 июля 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/2"
   },
   {
    "author": "tolstoy",
@@ -7255,6 +8335,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма из Пушкина другу В. Горожанину перед летней лекционной поездкой в Крым.",
+   "quote": "Выезжаю Севастополь двадцать третьего, семь двадцать. Если ваш отпуск совпадает, хорошо поездить вместе. Обеспечиваю боржомом, стихами, изысканной дружбой.",
+   "quoteSource": "Телеграмма В. М. Горожанину, 21 июля 1928",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1182.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -7285,6 +8375,16 @@ window.DAYS = {
    "quote": "Видел на березах первое желтое пятно <…> Липы цветут, и наша аллея в «Дворянском гнезде» встает с торжественными именинными столами под липами… На заборе чирикает молодой воробей, совсем как тогда, а сколько разных воробьев с тех пор пришло и ушло!",
    "quoteSource": "Дневник, 22 июля 1929",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1928-1929/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Маяковский сдал в Госиздат вторую часть октябрьской поэмы, будущей «Хорошо!», и попросил отсрочку для последней.",
+   "quote": "Ввиду необходимости частичной переработки третьей части поэмы «Октябрь» прошу разрешить мне представить последнюю часть к 7 августа с. г.",
+   "quoteSource": "Письмо в литературно-художественный отдел Госиздата, 22 июля 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1031.htm"
   },
   {
    "author": "paustovsky",
@@ -7319,6 +8419,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Наглядное пособие» — отклик на восстание рабочих в Вене.",
+   "quote": "Вена. / Дрожит / от рева медного. / Пулями / лепит / пулеметный рокот... / Товарищи, / не забудем / этого / предметного / урока.",
+   "quoteSource": "«Наглядное пособие»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -7349,6 +8459,16 @@ window.DAYS = {
    "quote": "Солнце, как в 14 году перед войной, скрылось не за тучами, а за хмарою горящих где-то лесов — великая сушь. И обняла пустыня душу мою, как малую лодочку океан обнимает.",
    "quoteSource": "Дневник, 24 июля 1920",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский выехал в лекционную поездку по Украине, Крыму и Кавказу.",
+   "quote": "Могу начать двадцать пятого июля до начала сентября. Телеграфируйте подробно заранее.",
+   "quoteSource": "Телеграмма П. И. Лавуту, 24 июля 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1032.htm"
   },
   {
    "author": "tolstoy",
@@ -7383,6 +8503,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0880.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В Германии Маяковский написал предисловие к сборнику «Вещи этого года», который сдал в берлинское издательство «Накануне».",
+   "quote": "Эти 12 месяцев работал больше, чем когда-либо. Для нас, мастеров слова России Советов, меленькие задачки чистого стиходелания отступают перед широкими целями помощи словом строительству коммуны.",
+   "quoteSource": "Предисловие к сборнику «Вещи этого года»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1951,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский зовёт сына Вадима в Солотчу, чтобы съездить на мещёрскую реку Пру.",
+   "quote": "Знаешь ли ты, что дно Пры ниже Спас-Клепиков на несколько километров покрыто толстым слоем ваты — отходами ватной фабрики за многие годы.",
+   "quoteSource": "Письмо В. К. Паустовскому, 25 июля 1951",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-240.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1933,
    "kind": "event",
@@ -7403,6 +8543,16 @@ window.DAYS = {
    "quote": "Петя сразу обратил внимание на множество поющих у нас сверчков и рассказал, что О. Л. Кардовская (художница) всю жизнь мечтает завести у себя на печке сверчка",
    "quoteSource": "Дневник, 26 июля 1927",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1920,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В вечерней «Стенной газете РОСТА» к демонстрации в честь II конгресса Коминтерна напечатан марш-гимн «III Интернационал».",
+   "quote": "Мы идем / революционной лавой. / Над рядами / флаг пожаров ал. / Наш вождь — / миллионноглавый / Третий Интернационал.",
+   "quoteSource": "«III Интернационал»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-176-.htm"
   },
   {
    "author": "tolstoy",
@@ -7437,6 +8587,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «„Комсомольская правда“» — призыв подписываться на газету.",
+   "quote": "Газета — / это / не чтенье от скуки; / газетой / с республики / грязь скребете; / газета — / наши глаза / и руки",
+   "quoteSource": "«„Комсомольская правда“»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-363-.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -7469,6 +8629,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма из Ялты Лиле Брик в Евпаторию, где снимали фильм «Евреи на земле», для которого Маяковский писал надписи.",
+   "quote": "Шкловский оператор выехали час дня. Очевидно будут среду утром. Целую.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 28 июля 1926",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/critics/m65/m65-1581.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1890,
    "kind": "letter",
@@ -7489,6 +8659,26 @@ window.DAYS = {
    "quote": "Поша приезжает, я рад. Все ничего не работаю. На душе не дурно. <…> Думал хорошо о том, как надо отучать себя от мысли о будущем и еще о том -- не помню.",
    "quoteSource": "Дневник, 29 июля 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1929,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма Лиле Брик из Сочи, где Маяковский выступал в санаториях и клубах.",
+   "quote": "Совсем заскучал. Очень прошу пожалуйста телеграфируйте Ялта востребование. Целую.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 29 июля 1929",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/critics/m65/m65-1712.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1964,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "После пяти месяцев болезни Паустовский сообщает из Тарусы Л. Н. Делекторской, что снова работает.",
+   "quote": "После болезни я уже начал работать (пишу, между прочим, седьмую автобиографическую книгу).",
+   "quoteSource": "Письмо Л. Н. Делекторской, 29 июля 1964",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-396.htm"
   },
   {
    "author": "prishvin",
@@ -7555,6 +8745,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма из Евпатории Лиле Брик в ответ на известие, что их дачу в Пушкине обокрали.",
+   "quote": "Если украли револьвер удостоверение номер 170 выданное Харьковом прошу заявить ГПУ опубликовать газете. <…> Потороплюсь ехать защищать родного Киса.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 31 июля 1928",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/critics/m65/m65-1672.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1916,
    "kind": "diary",
@@ -7619,6 +8819,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Первая телеграмма Лиле Брик из Нью-Йорка, куда Маяковский приехал из Мексики тремя днями раньше.",
+   "quote": "Дорогая Киса. Пока подробностей нет. Только приехал. Целую люблю.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 2 августа 1925",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/critics/m65/m65-1512.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "У Паустовского и Е. С. Загорской родился сын Вадим.",
+   "quote": "У меня 2-го августа родился сын, у тебя внук, а у Гали племянник. Мальчик маленький, но крепкий, назвали мы его Вадимом (в память Димы).",
+   "quoteSource": "Письмо М. Г. Паустовской, 19 августа 1925",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-45.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1929,
    "kind": "diary",
@@ -7641,6 +8861,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма из Ялты В. Катаняну в тифлисское издательство «Заккнига» с просьбой придержать отдельное издание «Разговора с фининспектором о поэзии».",
+   "quote": "Прошу задержать выпуск Разговора фининспектором. Необходимо сначала напечатать Москве.",
+   "quoteSource": "Телеграмма В. А. Катаняну, 3 августа 1926",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-089-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1955,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский защищает перед Ю. К. Смоличем красоту Тарусы и Средне-Русской возвышенности.",
+   "quote": "Здесь красиво и совсем не низменно, да будет Вам известно, что Таруса стоит на горах (из белого камня) и Белокаменная Москва и Кремль построены целиком из тарусского камня.",
+   "quoteSource": "Письмо Ю. К. Смоличу, 3 августа 1955",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-266.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1890,
    "kind": "letter",
@@ -7661,6 +8901,16 @@ window.DAYS = {
    "quote": "Жив. Встал рано, купался. Молился. Думал хорошо об О[тце] С[ергии], записал и потерял записную книжку.",
    "quoteSource": "Дневник, 4 августа 1890",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1360-1.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1923,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "На немецком курорте Нордерней, где Маяковский отдыхал летом, написано стихотворение «Нордерней» (дата под текстом).",
+   "quote": "Дыра дырой, / ни хорошая, ни дрянная — / немецкий курорт, / живу в Нордернее.",
+   "quoteSource": "«Нордерней»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-239-.htm"
   },
   {
    "author": "prishvin",
@@ -7705,6 +8955,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1923-1925/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Ялты Маяковский отправил в Госиздат последние главы октябрьской поэмы «Хорошо!».",
+   "quote": "Шлю окончание поэмы. Просмотрев работу в общем, пока оставил отдельные места во имя целого. Печатайте. Разумеется, буду работать над поэмой и дальше.",
+   "quoteSource": "Письмо в литературно-художественный отдел Госиздата, 5 августа 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1033.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет жене в родильный дом через несколько дней после рождения сына Вадима.",
+   "quote": "Все время у меня какая-то большая радость сменяется большой тревогой за тебя и малыша и снова радостью.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 5 августа 1925",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-44.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1898,
    "kind": "letter",
@@ -7725,6 +8995,16 @@ window.DAYS = {
    "quote": "Думаю уехать, оставив письмо и боюсь, хотя <…> думаю, что ей было бы лучше. <…> Тяжело вечное прятанье и страх за нее.",
    "quoteSource": "Дневник, 6 августа 1910",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1050.shtml"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1938,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Солотчи Паустовский пишет сыну Вадиму о засухе и рыбалке на глухих мещёрских озёрах.",
+   "quote": "Там берут окуни в 3—4 фунта, похожие на поросят, но очень вялые, их тащишь из воды, как корягу.",
+   "quoteSource": "Письмо В. К. Паустовскому, 6 августа 1938",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-128.htm"
   },
   {
    "author": "mayakovsky",
@@ -7759,6 +9039,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1923-1925/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1906,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "Первая прописка семьи Маяковских в Москве — в доме Ельчинского в Большом Козихинском переулке.",
+   "quote": "Остановились в Разумовском. Знакомые сестры — Плотниковы. Утром паровиком в Москву. Сняли квартиренку на Бронной.",
+   "quoteSource": "«Я сам» (автобиография)",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-031-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1938,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет жене о двух днях, проведённых на Старой Оке за Прорвой.",
+   "quote": "Там было очень хорошо, около нас садились стаи журавлей (они уже улетают на юг), много разной рыбы.",
+   "quoteSource": "Письмо В. В. Навашиной, 7 августа 1938",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-129.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1907,
    "kind": "letter",
@@ -7779,6 +9079,26 @@ window.DAYS = {
    "quote": "Магомет сказал: за зло делай добро. Зло само накажет. Баба сказала: неправда. Испытай.",
    "quoteSource": "Дневник, 8 августа 1881",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0880.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Выступление в Ялте, в клубе им. 1 Мая, — одно из последних в утомительной крымской поездке, после которой Маяковский вернулся в Москву.",
+   "quote": "Надоело нестерпимо. Около десятого еду домой.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 5 августа 1928",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1941,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Выбравшись с Южного фронта в Москву, Паустовский пишет эвакуированной жене.",
+   "quote": "Я ехал в Москву всеми путями,— из Одессы до Харькова — пять дней на грузовых машинах, а от Харькова — на самолете.",
+   "quoteSource": "Письмо В. В. Навашиной, 8 августа 1941",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-160.htm"
   },
   {
    "author": "prishvin",
@@ -7813,6 +9133,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В газете «Нью-Йорк уорлд» напечатана беседа с Маяковским писателя Майкла Голда: поэт говорил, что Нью-Йорк ещё не стал подлинно индустриальным городом.",
+   "quote": "Эта техника не застоялась, эта техника растет. В ней есть одна странная черта — снаружи, внешне эта техника производит недоделанное, временное впечатление.",
+   "quoteSource": "«Мое открытие Америки»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-290-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1937,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский рассказывает сыну о лодочном походе по Десне с московскими комсомольцами.",
+   "quote": "Был даже один, который впервые в жизни видел, как кипит ключом в котелке вода (на костре), и страшно испугался,— поднял крик на весь лагерь.",
+   "quoteSource": "Письмо В. К. Паустовскому, 9 августа 1937",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-114.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1890,
    "kind": "letter",
@@ -7833,6 +9173,26 @@ window.DAYS = {
    "quote": "Уж я и хлебы поставила и замесила, и посадила. Не знаю, каковы выйдут. Все нужда. Красивая, широкая, сильная старуха с усталыми большими черными глазами.",
    "quoteSource": "Дневник, 10 августа 1881",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0880.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо Лиле Брик из Ялты во время лекционного турне по Донбассу и Крыму.",
+   "quote": "Я живу в Ялте, вернее, это так называется, потому что езжу читать во все имеющиеся стороны.",
+   "quoteSource": "Письмо Л. Ю. Брик, 10 августа 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-104-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1923,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Вскоре после переезда в Москву Паустовский пишет тифлисскому знакомому А. М. Гюль-Назарову о московской жизни.",
+   "quote": "Москва – в дождях, слякоти, бензинном чаде, сутолоке. Стала типичным Петроградом, чиновным городом.",
+   "quoteSource": "Письмо А. М. Гюль-Назарову, 10 августа 1923",
+   "sourceUrl": "https://1.librebook.me/brosok_na_iug/vol3/3"
   },
   {
    "author": "prishvin",
@@ -7857,6 +9217,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1928-1929/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "Маяковский вернулся в Москву из лекционной поездки по Крыму.",
+   "quote": "Ограничьтесь крымскими лекциями. Должен быть Москве около пятнадцатого августа обязательно.",
+   "quoteSource": "Телеграмма П. И. Лавуту, 21 июля 1928",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1958,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский вступается перед издательством «Советская Россия» за книгу Е. С. Загорской о скульпторе Голубкиной.",
+   "quote": "отсутствие книги о Голубкиной, художнике, которым наша страна вправе гордиться, конечно, величайшее недоразумение и упущение",
+   "quoteSource": "Письмо в издательство «Советская Россия», 11 августа 1958",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-298.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1892,
    "kind": "letter",
@@ -7877,6 +9257,16 @@ window.DAYS = {
    "quote": "Молюсь Богу, прося Его помочь мне распутаться из моего положения имущественного <…> Помоги, Господи! Я запутался, страдаю и не могу. Помоги.",
    "quoteSource": "Дневник, 12 августа 1891",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В «Журнале журналов» напечатана статья «О разных Маяковских» — ироническая автохарактеристика с неопубликованными строками из «Облака в штанах».",
+   "quote": "Я — нахал, для которого высшее удовольствие ввалиться, напялив желтую кофту, в сборище людей, благородно берегущих под чинными сюртуками, фраками и пиджаками скромность и приличие.",
+   "quoteSource": "«О разных Маяковских»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
   },
   {
    "author": "prishvin",
@@ -7911,6 +9301,16 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1923-1925/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В «Новом сатириконе» под инициалами «В. М.» напечатано стихотворение «Пустяк у Оки».",
+   "quote": "Нежно говорил ей — / мы у реки / шли камышами: / «Слышите: шуршат камыши у Оки. / Будто наполнена Ока мышами.",
+   "quoteSource": "«Пустяк у Оки»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1897,
    "kind": "letter",
@@ -7943,6 +9343,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0960.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатан «Рифмованный отчет» о празднике Всесоюзной спартакиады 12 августа.",
+   "quote": "Щеки, / знамена — / красные маки. / Золото / лозунгов / блещет на спуске.",
+   "quoteSource": "«Рифмованный отчет. Так и надо — крой, Спартакиада!»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1958,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский рассказывает С. М. Алянскому, как авиаконструктор Микулин привёз ему в Тарусу самодельный прибор от астмы.",
+   "quote": "Я с опаской начал им дышать и вот теперь хожу, работаю и даже ловлю рыбу на Оке.",
+   "quoteSource": "Письмо С. М. Алянскому, 14 августа 1958",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-299.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1928,
    "kind": "diary",
@@ -7963,6 +9383,26 @@ window.DAYS = {
    "quote": "Я иду в огород, сажусь на бревно и, как ребенок, открываю глаза на мир и удивляюсь, и тогда стрекоза, летающая на оранжевом небе, честное слово, рассказывает мне своим видом, что овес желтеет уже, что лен берут…",
    "quoteSource": "Дневник, 15 августа 1929",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1928-1929/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1925,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях ЦИК» напечатано стихотворение «Атлантический океан», написанное на пароходе по пути в Мексику.",
+   "quote": "По шири, / по делу, / по крови, / по духу — / моей революции / старший брат.",
+   "quoteSource": "«Атлантический океан»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/ms7/ms7-463-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский сообщает жене, что по заказу «30 дней» написал рассказ «Лето».",
+   "quote": "рассказ вышел хороший – бессюжетный, там есть Дим-Передим и ты, и Петро Дымченко, и Балаклава. Называется он «Лето».",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 15 августа 1929",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/3"
   },
   {
    "author": "tolstoy",
@@ -7987,6 +9427,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо в редакцию «Красной нови» в ответ на статью Д. Тальникова о заграничных очерках Маяковского: поэт порывает с журналом.",
+   "quote": "Изумлен развязным тоном малограмотных людей, пишущих в «Красной нови» под псевдонимом «Тальников». Дальнейшее мое сотрудничество считаю лишним.",
+   "quoteSource": "Письмо в редакцию журнала «Красная новь», 16 августа 1928",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-121-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1942,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Барнаула Паустовский пишет Фраерманам, что едет с Таировым и Коонен на Алтай писать пьесу.",
+   "quote": "20 августа мы едем вместе с престарелым Таировым и Коонен в Белокуриху на Алтае, в 70 километрах от Бийска, там я буду писать пьесу.",
+   "quoteSource": "Письмо Р. И. Фраерману, 16 августа 1942",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-175.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1924,
    "kind": "diary",
@@ -8007,6 +9467,16 @@ window.DAYS = {
    "quote": "Художник своей творческой властью преображает жизнь так, что в ней нет, как будто нет ни судьбы, ни экономической необходимости, ни долга, ни скуки.",
    "quoteSource": "Дневник, 17 августа 1924",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1923-1925/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1921,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Стихотворный постскриптум в письме Б. Малкину, бывшему руководителю Центропечати, в разгар конфликта с Госиздатом из-за гонорара за «Мистерию-буфф».",
+   "quote": "Когда, убоясь футуристической рыси, / в колеса вставляли палки нам, — / мы взмаливались: / «Спаси нас, отче Борисе!» / И враги расточались перед бешеным Малкиным.",
+   "quoteSource": "Письмо Б. Ф. Малкину, 17 августа 1921",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-049-.htm"
   },
   {
    "author": "tolstoy",
@@ -8063,6 +9533,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Привет, КИМ!» — к открытию V конгресса Коммунистического интернационала молодёжи.",
+   "quote": "Все, / кто смел и надежен, / вливайтесь / в наш КИМ",
+   "quoteSource": "«Привет, КИМ!»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1925,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет матери о рождении внука и о напряжённой работе.",
+   "quote": "Писать было очень трудно, в Москве месяцы идут, как дни и часы, как недели.",
+   "quoteSource": "Письмо М. Г. Паустовской, 19 августа 1925",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-45.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1897,
    "kind": "letter",
@@ -8083,6 +9573,16 @@ window.DAYS = {
    "quote": "Думал: делать добро материально людям то же, что лелеять тело ребенка. Без этого нельзя, но не в этом дело. Дело в установлении Царства Б[ожия] -- любви.",
    "quoteSource": "Дневник, 20 августа 1890",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1360-1.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1915,
+   "kind": "event",
+   "oldStyle": true,
+   "text": "В «Новом сатириконе» напечатано антивоенное стихотворение «Великолепные нелепости».",
+   "quote": "Бросьте! / Конечно, это не смерть. / Чего ей ради ходить по крепости? / Как вам не стыдно верить / нелепости?!",
+   "quoteSource": "«Великолепные нелепости»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-098-.htm"
   },
   {
    "author": "prishvin",
@@ -8159,6 +9659,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1040.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях» напечатано стихотворение «Товарищу Нетте — пароходу и человеку» — о встрече в одесском порту с пароходом, названным именем погибшего дипкурьера.",
+   "quote": "Я недаром вздрогнул. / Не загробный вздор. / В порт, / горящий, / как расплавленное лето, / разворачивался / и входил / товарищ «Теодор / Нетте».",
+   "quoteSource": "«Товарищу Нетте, пароходу и человеку»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1956,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский посылает редактору план шеститомного собрания сочинений и сообщает о предстоящем плавании на теплоходе «Победа».",
+   "quote": "Почти весь материал подобран, и ко времени Вашего возвращения в Москву я оставляю для Вас уже просмотренные мной и выправленные первые три тома. Моя поездка на «Победе» (с 5 сентября по 3 октября) не помешает и нас не задержит.",
+   "quoteSource": "Письмо Н. Д. Крючковой, 22 августа 1956",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-276.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1926,
    "kind": "diary",
@@ -8179,6 +9699,26 @@ window.DAYS = {
    "quote": "Великий переезд в Сергиев к своему дому. <…> Почему у меня была только одна любовь? («почему» — в смысле характеристики своей натуры). Однолюбство вытекает из детства, с этим все связано.",
    "quoteSource": "Дневник, 23 августа 1926",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1928,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Комсомольской правде» напечатано стихотворение «Земля наша обильна» — о неустроенности крымских курортов.",
+   "quote": "Я езжу / по южному / берегу Крыма, — / не Крым, / а копия / древнего рая!",
+   "quoteSource": "«Земля наша обильна»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1958,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский сообщает редактору Б. С. Евгеньеву об окончании четвёртой автобиографической книги.",
+   "quote": "Четвертую автобиографическую книгу я окончил (сейчас отделываю).",
+   "quoteSource": "Письмо Б. С. Евгеньеву, 23 августа 1958",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-300.htm"
   },
   {
    "author": "tolstoy",
@@ -8203,6 +9743,26 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_1340.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1909,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Из Центральной пересыльной тюрьмы шестнадцатилетний Маяковский просит Охранное отделение освободить его; в просьбе отказали.",
+   "quote": "покорнейше прошу вас рассмотреть мое дело и отпустить меня на свободу. Прошу также Охранное отделение на время моего пребывания в Центральной пересыльной тюрьме разрешить мне общую прогулку.",
+   "quoteSource": "Прошение в Московское охранное отделение, 24 августа 1909",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-0132.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из летней Москвы Паустовский пишет жене в село Озерицы о безденежье и договоре на книгу.",
+   "quote": "В Москве гнусно, безденежье, вонь, скупка. После Одессы и Озериц трудно понять вообще, как можно жить в Москве.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 24 августа 1927",
+   "sourceUrl": "https://1.librebook.me/kniga_skitanii/vol25/3"
+  },
+  {
    "author": "prishvin",
    "year": 1922,
    "kind": "diary",
@@ -8223,6 +9783,26 @@ window.DAYS = {
    "quote": "Нет желтых берез и красных осин, но по дороге по грязи постоянно попадаются и золотые монеты березок и кровавая печать иудина дерева. По утрам бормочут тетерева, потом стучат цепы",
    "quoteSource": "Дневник, 25 августа 1928",
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1928-1929/"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1929,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "На закрытии Всесоюзного пионерского слёта на стадионе «Динамо» Маяковский прочёл «Песню-молнию», напечатанную в тот же день в «Пионерской правде».",
+   "quote": "За море синеволное, / за сто земель / и вод / разлейся, песня-молния, / про пионерский слет.",
+   "quoteSource": "«Песня-молния»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-451-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1937,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "«Литературная газета» напечатала «Письмо писателю Паустовскому» Юрия Олеши — об их общей любви к Александру Грину.",
+   "quote": "Читали ли Вы статью Олеши (в «Литературной газете») с его высказываниями — довольно спорными, но обширными — об Ал. Степановиче? Статья носит трескучий заголовок «Письмо писателю Паустовскому».",
+   "quoteSource": "Письмо Н. Н. Грин, 9 октября 1937",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-119.htm"
   },
   {
    "author": "tolstoy",
@@ -8247,6 +9827,16 @@ window.DAYS = {
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0880.shtml"
   },
   {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Телеграмма Лиле Брик из Ялты: Маяковский окончательно называет октябрьскую поэму «Хорошо!».",
+   "quote": "Сообщите Госиздату название Октябрьской поэмы Хорошо. Подзаголовок Октябрьская поэма. Частей не делать.",
+   "quoteSource": "Телеграмма Л. Ю. Брик, 26 августа 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1052.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1914,
    "kind": "diary",
@@ -8269,6 +9859,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1920-1922/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях» напечатано сатирическое стихотворение «Ужасающая фамильярность» — о повальной моде называть всё именами знаменитостей.",
+   "quote": "есть Марксов проспект, / и улица Розы, / и Луначарского — / переулок или тупик.",
+   "quoteSource": "«Ужасающая фамильярность»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1963,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский просит В. М. Кожевникова сообщить мнение редакции о его новой книге.",
+   "quote": "Если «да», то я срочно займусь рукописью, а если «нет», то так тому и быть!",
+   "quoteSource": "Письмо В. М. Кожевникову, 27 августа 1963",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-385.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1855,
    "kind": "event",
@@ -8289,6 +9899,16 @@ window.DAYS = {
    "quote": "Мне 2 х 28 лет. <…> Приятно, дружно с женой. Говорил ей истины неприятные, и она не сердилась.",
    "quoteSource": "Дневник, 28 августа 1884",
    "sourceUrl": "http://az.lib.ru/t/tolstoj_lew_nikolaewich/text_0880.shtml"
+  },
+  {
+   "author": "mayakovsky",
+   "year": 1927,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Письмо из Ялты в Госиздат с окончательными изменениями в поэме «Хорошо!» перед печатью.",
+   "quote": "Сообщаю вам окончательные изменения в моей Октябрьской поэме и прошу их внести в корректуру. <…> (Прошу давать это название в дальнейших газетных объявлениях).",
+   "quoteSource": "Письмо в литературно-художественный отдел Госиздата, 28 августа 1927",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/texts/ms0/msd/msd-1053.htm"
   },
   {
    "author": "prishvin",
@@ -8333,6 +9953,26 @@ window.DAYS = {
    "sourceUrl": "https://azbyka.ru/fiction/dnevniki-1926-1927/"
   },
   {
+   "author": "mayakovsky",
+   "year": 1926,
+   "kind": "event",
+   "oldStyle": false,
+   "text": "В «Известиях» напечатано стихотворение «Канцелярские привычки» — о надписях, которыми курортники исписали скалы Кавказа и Крыма.",
+   "quote": "Я / два месяца / шатался по природе, / чтоб смотреть цветы / и звезд огнишки. / Таковых не видел. / Вся природа вроде / телефонной книжки.",
+   "quoteSource": "«Канцелярские привычки»",
+   "sourceUrl": "https://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1915,
+   "kind": "letter",
+   "oldStyle": true,
+   "text": "Санитаром отступающей армии Паустовский пишет Е. С. Загорской из деревни под Барановичами.",
+   "quote": "Пишу сейчас в избе. Ревут дети, плачут бабы, боятся,— близко «герман», за окном тысячные обозы беженцев — все костры и костры,— грязь, вонь, дожди, холодный, сырой ветер с окрестных болот.",
+   "quoteSource": "Письмо Е. С. Загорской, 29 августа 1915",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-5.htm"
+  },
+  {
    "author": "tolstoy",
    "year": 1852,
    "kind": "event",
@@ -8365,6 +10005,16 @@ window.DAYS = {
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
   },
   {
+   "author": "paustovsky",
+   "year": 1926,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский сообщает жене, что А. К. Воронский принял его «Этикетки» для «Красной нови».",
+   "quote": "Я рад не только тому, что «Этикетки» будут напечатаны в лучшем журнале, но еще и тому, что в литературу я вошел не с заднего хода, без рекомендательных писем, друзей и подготовки, вошел как человек совершенно неизвестный.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 30 августа 1926",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-49.htm"
+  },
+  {
    "author": "prishvin",
    "year": 1922,
    "kind": "diary",
@@ -8395,6 +10045,16 @@ window.DAYS = {
    "quote": "Киноработа мне нравится главным образом тем, что ее не надо переводить. Я намучился, десятый год объясняя иностранцам красоты «Левого марша», а у них слово «левый» в применении к искусству, даже если его перевести, ничего не значит.",
    "quoteSource": "Ответ на анкету о кино, «Новый зритель», 31 августа 1926",
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1948,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из Солотчи Паустовский пишет Н. С. Алянской о жизни в одиночестве в пустом доме.",
+   "quote": "Пишу при свечах (керосина нет) и вообще одичал,— как бы не разучиться разговаривать. Но хорошо — пусто, тихо, одиноко.",
+   "quoteSource": "Письмо Н. С. Алянской, 31 августа 1948",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-224.htm"
   },
   {
    "author": "tolstoy",
@@ -8459,6 +10119,16 @@ window.DAYS = {
    "quote": "Вперед, комсомольцы, / всесоюзным походом! / В окопах вражьих — / переполох.",
    "quoteSource": "«Вперед, комсомольцы!»",
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-421-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1929,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Паустовский пишет жене в Балаклаву о рассказе, который пишет о ней и сыне.",
+   "quote": "Я стосковался страшно — пишу даже рассказ о тебе и Димушке — бессюжетный,— там много солнца, моря и ребячества.",
+   "quoteSource": "Письмо Е. С. Загорской-Паустовской, 2 сентября 1929",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-55.htm"
   },
   {
    "author": "tolstoy",
@@ -8533,6 +10203,16 @@ window.DAYS = {
    "quote": "Меж дум, / приходящих, / страну наводня, / на лоб страны, / невзгодами взморщенный, / в порядок года, / месяца, / дня / поставьте лозунг: / — Борьба с беспризорщиной.",
    "quoteSource": "«Беспризорщина»",
    "sourceUrl": "http://feb-web.ru/feb/mayakovsky/kmh-abc/kmh-325-.htm"
+  },
+  {
+   "author": "paustovsky",
+   "year": 1932,
+   "kind": "letter",
+   "oldStyle": false,
+   "text": "Из осенней Солотчи Паустовский пишет Р. И. Фраерману.",
+   "quote": "Было три синих и жарких дня с паутиной и дождем желтой листвы, стояло безветрие, но сегодня опять задул суховей.",
+   "quoteSource": "Письмо Р. И. Фраерману, 4 сентября 1932",
+   "sourceUrl": "https://paustovskiy-lit.ru/paustovskiy/letters/letter-78.htm"
   },
   {
    "author": "tolstoy",
